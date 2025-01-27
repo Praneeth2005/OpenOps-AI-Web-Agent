@@ -692,7 +692,7 @@ def create_ui(config, theme_name="Ocean"):
         gr.Markdown(
             """
             # 🌐 OpenOps Agent 
-            ### Seamlessly orchestrate your AI‐powered tasks—empowering you to operate, automate, and innovate with OpenAI.
+            ### Seamlessly orchestrate your AI‐powered tasks—empowering you to operate, automate, and innovate.
             """,
             elem_classes=["header-text"]
         )
