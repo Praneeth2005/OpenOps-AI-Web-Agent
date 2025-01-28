@@ -129,25 +129,52 @@ Customize these settings either from the UI or by editing your config file, then
 
 ---
 
-## LLM Performance and Screenshots
-
-To highlight how different language models perform within OpenOps Agent, you can add screenshots, performance metrics, or sample outputs in this section. For example:
-
-1. **Screenshots**  
-   - Add screenshots of the Gradio interface while a specific model (e.g., `Qwen 2.5-VL` or `claude-3.5 sonnet`) is running a task.  
-   - Show step-by-step interactions in the browser view if you wish to demonstrate how the AI navigates websites or fills out forms.
-
-2. **Performance Metrics**  
-   - Show comparative results of each LLM on tasks like text generation, code completion, or data extraction.  
-   - Include any relevant charts or tables comparing speed, accuracy, or token usage across different models.
-
-3. **Storing and Linking Images**  
-   - Consider creating a dedicated folder (e.g., `docs/images` or `assets/screenshots`) and storing your images there.  
-   - Link them directly in the README or in separate markdown files within the `docs/` directory.
-
-By providing a visual overview of how each model behaves, contributors and users can better understand the trade-offs, accuracy, and speed of various LLMs supported by OpenOps Agent.
+Below is a more structured version of the **LLM Performance and Screenshots** section, with each model’s screenshots and a brief description:
 
 ---
+
+## LLM Performance and Screenshots
+
+To highlight how different language models perform within OpenOps Agent, we’ve included screenshots and notes below.
+
+### Claude 3.5 Sonnect
+Here’s a screenshot demonstrating Claude 3.5 Sonnect’s token usage and performance:
+
+![image](https://github.com/user-attachments/assets/02e69b7b-63cb-4f2f-9b57-2f5787e81f75)
+
+Additional view or details:
+
+![image](https://github.com/user-attachments/assets/a0cf373b-e786-4839-9c79-3d0a63377f05)
+
+**Observations/Notes**  
+- Summaries of token usage or performance, e.g., “Handles long text well but uses moderate tokens.”  
+- Any unique advantages or drawbacks observed during testing.
+
+---
+
+### Google Gemini 2.0 (Flash-Thinking-Exp-01-21)
+Below are multiple screenshots showing token usage or other performance metrics:
+
+![image](https://github.com/user-attachments/assets/ad230f4f-b505-4e27-ae19-fea1dadf08b0)
+![image](https://github.com/user-attachments/assets/4f3f4e2b-52f1-493c-a1b8-03cff183f2db)
+![image](https://github.com/user-attachments/assets/fed13711-3b75-46a8-9072-b1cae076878b)
+
+**Observations/Notes**  
+- “Fast generation speeds for shorter prompts.”  
+- “Handles complex reasoning tasks effectively, though token usage can spike.”
+
+---
+
+### OpenAI ChatGPT 4o
+*(Replace this placeholder with an actual screenshot if available.)*
+
+**Observations/Notes**  
+- “Excels in generating coherent long-form text with fewer token resets.”  
+- “Higher-level reasoning is strong, with robust context handling.”
+
+---
+
+> **Tip:** If you have more data (e.g., average tokens used per request or cost estimates), feel free to create a simple table comparing each model’s stats.
 
 ## Contributing
 
