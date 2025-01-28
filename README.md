@@ -10,6 +10,7 @@ OpenOps Agent is a web-based control center that leverages a headless browser an
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Project Layout](#project-layout)
+- [LLM Performance and Screenshots](#llm-performance-and-screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
@@ -71,7 +72,7 @@ OpenOps Agent is a web-based control center that leverages a headless browser an
 3. **Describe Your Task**  
    In the **Run the AI Agent** section, type in your task. Example:
    ```
-   I want to travel from Hyderabad to Vishakhapatnam, book flight tickets on Jan 29th, 
+   I want to travel from Hyderabad to Visakhapatnam, book flight tickets on Jan 29th, 
    and my return is on Jan 31st. Book any flights.
    ```
    Add additional hints or constraints in the **Additional Hints** box.
@@ -128,6 +129,26 @@ Customize these settings either from the UI or by editing your config file, then
 
 ---
 
+## LLM Performance and Screenshots
+
+To highlight how different language models perform within OpenOps Agent, you can add screenshots, performance metrics, or sample outputs in this section. For example:
+
+1. **Screenshots**  
+   - Add screenshots of the Gradio interface while a specific model (e.g., `Qwen 2.5-VL` or `claude-3.5 sonnet`) is running a task.  
+   - Show step-by-step interactions in the browser view if you wish to demonstrate how the AI navigates websites or fills out forms.
+
+2. **Performance Metrics**  
+   - Show comparative results of each LLM on tasks like text generation, code completion, or data extraction.  
+   - Include any relevant charts or tables comparing speed, accuracy, or token usage across different models.
+
+3. **Storing and Linking Images**  
+   - Consider creating a dedicated folder (e.g., `docs/images` or `assets/screenshots`) and storing your images there.  
+   - Link them directly in the README or in separate markdown files within the `docs/` directory.
+
+By providing a visual overview of how each model behaves, contributors and users can better understand the trade-offs, accuracy, and speed of various LLMs supported by OpenOps Agent.
+
+---
+
 ## Contributing
 
 We welcome pull requests, issues, and feature requests! Feel free to open an issue to discuss major changes or improvements. For small fixes, simply create a PR referencing the relevant issue (if any).
@@ -155,4 +176,3 @@ This project is licensed under the [MIT License](LICENSE). Feel free to modify o
 ---
 
 **Thank you for trying OpenOps Agent!**  
-_If you find it useful, feel free to ⭐ star this repository and contribute your ideas._
