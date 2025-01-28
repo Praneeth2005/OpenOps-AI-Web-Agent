@@ -166,15 +166,12 @@ Below are multiple screenshots showing token usage or other performance metrics:
 ---
 
 ### OpenAI ChatGPT 4o
-*(Replace this placeholder with an actual screenshot if available.)*
 
 **Observations/Notes**  
 - “Excels in generating coherent long-form text with fewer token resets.”  
 - “Higher-level reasoning is strong, with robust context handling.”
 
----
 
-> **Tip:** If you have more data (e.g., average tokens used per request or cost estimates), feel free to create a simple table comparing each model’s stats.
 
 ## Contributing
 
