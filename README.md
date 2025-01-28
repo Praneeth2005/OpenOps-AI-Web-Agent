@@ -4,6 +4,14 @@ A Project By Praneeth Kilari
 
 ![image](https://github.com/user-attachments/assets/ef0f556e-bd0c-4ffb-82e7-86aee6d227b9)
 
+
+![image](https://github.com/user-attachments/assets/9a8d8905-a29a-4017-b8bf-75fad7d5f317)
+Performaning A Task Using Locally Deployed deepseek r1:32b 
+![image](https://github.com/user-attachments/assets/57316ba2-9847-4ded-b8fd-d9fa8fea9daa)
+![image](https://github.com/user-attachments/assets/aecfe654-921e-4468-b9aa-ba8ed96260dd)
+prompt is " Help me book a campsite on Hipcamp for a weekend in march 6th 2025. I prefer a site near Yellowstone with access to running water. My budget is $50 per night " 
+using deepseek r1:32b (deployed locally)
+
 **Seamlessly orchestrate your AI-powered tasks—empowering you to operate, automate, and innovate with OpenAI.**
 
 OpenOps Agent is a web-based control center that leverages a headless browser and LLM (Large Language Model) capabilities. By simplifying complex tasks into natural language instructions, it allows you to offload repetitive, multi-step processes to an AI assistant.
