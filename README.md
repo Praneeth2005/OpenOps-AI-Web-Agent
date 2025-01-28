@@ -1,4 +1,8 @@
 # OpenOpsAI Web-Agent: Empowered With deepseek R1:32b, OpenAI-o1 , Qwen 2.5-VL , claude-3.5 sonnet , gemini-2.0-flash-exp
+A Project By Praneeth Kilari
+
+
+![image](https://github.com/user-attachments/assets/ef0f556e-bd0c-4ffb-82e7-86aee6d227b9)
 
 **Seamlessly orchestrate your AI-powered tasks—empowering you to operate, automate, and innovate with OpenAI.**
 
