@@ -12,7 +12,13 @@ A Project By Praneeth Kilari
 
 
 ![image](https://github.com/user-attachments/assets/57316ba2-9847-4ded-b8fd-d9fa8fea9daa)
-![image](https://github.com/user-attachments/assets/aecfe654-921e-4468-b9aa-ba8ed96260dd)
+
+
+![image](https://github.com/user-attachments/assets/c131b85c-7353-49f0-9ebe-00af61d6a37e)
+
+
+![image](https://github.com/user-attachments/assets/31c967e0-a68d-4b94-b408-a27c6f66679a)
+
 prompt is " Help me book a campsite on Hipcamp for a weekend in march 6th 2025. I prefer a site near Yellowstone with access to running water. My budget is $50 per night " 
 using deepseek r1:32b (deployed locally)
 
