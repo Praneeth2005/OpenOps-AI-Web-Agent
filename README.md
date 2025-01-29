@@ -158,7 +158,8 @@ Below is a more structured version of the **LLM Performance and Screenshots** se
 ## LLM Performance and Screenshots
 
 ### deepseek-r1:32b 
-![image](https://github.com/user-attachments/assets/b5856517-7b5d-4bf3-94f9-88e8210de287)
+![image](https://github.com/user-attachments/assets/26a05881-a39c-42e7-8a60-fae60fc5941a)
+
 Here's the tokens utiliztion of the model
 
 ### Claude 3.5 Sonnect
