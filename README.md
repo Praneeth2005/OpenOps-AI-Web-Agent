@@ -157,7 +157,9 @@ Below is a more structured version of the **LLM Performance and Screenshots** se
 
 ## LLM Performance and Screenshots
 
-To highlight how different language models perform within OpenOps Agent, we’ve included screenshots and notes below.
+### deepseek-r1:32b 
+![image](https://github.com/user-attachments/assets/b5856517-7b5d-4bf3-94f9-88e8210de287)
+Here's the tokens utiliztion of the model
 
 ### Claude 3.5 Sonnect
 Here’s a screenshot demonstrating Claude 3.5 Sonnect’s token usage and performance:
