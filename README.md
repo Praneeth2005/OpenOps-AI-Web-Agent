@@ -59,7 +59,7 @@ OpenOps Agent is a web-based control center that leverages a headless browser an
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/openops-agent.git
+   git clone https://github.com/Praneeth2005/OpenOps-AI-Web-Agent.git
    cd openops-agent
    ```
 2. **Install Python dependencies**:
